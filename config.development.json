@@ -7,7 +7,7 @@
   "database": {
     "client": "sqlite3",
     "connection": {
-      "filename": "/Users/sharonjohn/ghost-server/content/data/ghost-local.db"
+      "filename": "/Users/samtang/ghost-server/content/data/ghost-local.db"
     }
   },
   "mail": {
@@ -21,6 +21,6 @@
   },
   "process": "local",
   "paths": {
-    "contentPath": "/Users/sharonjohn/ghost-server/content"
+    "contentPath": "/Users/samtang/ghost-server/content"
   }
 }
